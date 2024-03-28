@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on anything i can learn
-- 📫 How to reach me ...idk
+- 📫 How to reach me Johnsonteri840@gmail.com
 
 <!---
 TeriCheri/TeriCheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
